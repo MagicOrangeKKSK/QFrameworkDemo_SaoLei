@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3493672642
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gamestartuipanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: gamemainuipanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: gamemainminecell_prefab
+      Dependencies: {}
